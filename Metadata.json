@@ -1,7 +1,7 @@
 {
     "Author": "AvihaiH",
     "ContentSize": 3521,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/move-(copy)-azure-virtual-machine-with-managed-disks-between-subscriptions/master/MoveAzureVMManagedDisks.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/move--copy--azure-virtual-machine-with-managed-disks-between-subscriptions/master/MoveAzureVMManagedDisks.ps1",
     "DownloadCount": 770,
     "Id": "Move-Copy-Azure-Virtual-c8874aa0",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Move (Copy) Azure Virtual Machine with managed disks (including data disks) between Subscriptions. This script will help you to move (copy) Virtual Machine that uses managed disks (including data disks) between Subscriptions",
     "Title": "Move (Copy) Azure Virtual Machine with Managed Disks between Subscriptions",
     "UpdatedDate": "2018-5-5T00:00:00",
-    "Url": "https://github.com/azureautomation/move-(copy)-azure-virtual-machine-with-managed-disks-between-subscriptions",
+    "Url": "https://github.com/azureautomation/move--copy--azure-virtual-machine-with-managed-disks-between-subscriptions",
     "UserTags": "Microsoft Azure, Windows PowerShell, Windows Azure Virtual Machines"
 }
